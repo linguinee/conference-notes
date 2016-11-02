@@ -2,23 +2,23 @@
 
 Ian Hamilton
 
-* [Why games?](#why-games-)
+* [Why games?](#why-games)
 * [CVAA](#cvaa)
   * [Classifications](#classifications)
 * [PS4 and Xbox One](#ps4-and-xbox-one)
   * [Xbox One](#xbox-one)
-  * ["They're just doing this for compliance."](#-they-re-just-doing-this-for-compliance-)
+  * ["They're just doing this for compliance."](#theyre-just-doing-this-for-compliance)
 * [Tools](#tools)
 * [Advocacy Organizations](#advocacy-organizations)
 * [Game Development](#game-development)
 * [Switch Access](#switch-access)
 * [Government-Funded](#government-funded)
-  * [Film Victoria – Australia](#film-victoria---australia)
+  * [Film Victoria – Australia](#film-victoria--australia)
   * [Creative Europe](#creative-europe)
 * [Global Game Jam](#global-game-jam)
 * [Awareness](#awareness)
-* [Game Example: Evolve](#game-example--evolve)
-* [Q&A](#q-a)
+* [Game Example: Evolve](#game-example-evolve)
+* [Q&A](#qa)
 
 ## Why games?
 

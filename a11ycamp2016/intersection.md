@@ -2,15 +2,15 @@
 
 Mitchell Evan, SSB BART Group
 
-* [Challenge #1: Color Contrast of Text](#challenge--1--color-contrast-of-text)
-  * [When should color contrast happen?](#when-should-color-contrast-happen-)
-    * [Process and design buy-in](#process-and-design-buy-in)
-        * [Inclusive design](#inclusive-design)
-        * [Challenge #2: Keyboard Access](#challenge--2--keyboard-access)
-          * [Useful facets of keyboard accessibility](#useful-facets-of-keyboard-accessibility)
-            * [Testing](#testing)
-              * [Responsibilities](#responsibilities)
-              * [What's Next?](#what-s-next-)
+* [Challenge #1: Color Contrast of Text](#challenge-1-color-contrast-of-text)
+  * [When should color contrast happen?](#when-should-color-contrast-happen)
+  * [Process and design buy-in](#process-and-design-buy-in)
+    * [Inclusive design](#inclusive-design)
+* [Challenge #2: Keyboard Access](#challenge-2-keyboard-access)
+  * [Useful facets of keyboard accessibility](#useful-facets-of-keyboard-accessibility)
+  * [Testing](#testing)
+  * [Responsibilities](#responsibilities)
+* [What's Next?](#whats-next)
 
 Two challenges today (which I would argue are symptoms of organizational dysfunction):
 
@@ -33,18 +33,18 @@ Possibilities, together or separately:
 
 * Very early
   * Design ideation
-    * UI architecture
-      * Accessibility strategy
-      * Systems
-        * **Design system  ← good time to fix color contrast issues**
-          * UI components
-            * Iterative support
-            * Build
-              * Design production
-                * Primary development
-                  * Iterative support
-                  * Quality Assurance
-                  * Release
+  * UI architecture
+  * Accessibility strategy
+* Systems
+  * **Design system  ← good time to fix color contrast issues**
+  * UI components
+  * Iterative support
+* Build
+  * Design production
+  * Primary development
+  * Iterative support
+* Quality Assurance
+* Release
 
 ### Process and design buy-in
 
@@ -96,12 +96,12 @@ Mitchell's take on this:
 
 * Tab order
   * Developer mainly responsible, Designer and A11y Specialist involved
-  * Focus management
-    * Developer mainly responsible, A11y Specialist mostly responsible, Designer involved
-    * Visual focus indication
-      * Designer mainly responsible, Developer involved
-      * Select or activate
-        * A11y Specialist mainly responsible, Developer mostly responsible
+* Focus management
+  * Developer mainly responsible, A11y Specialist mostly responsible, Designer involved
+* Visual focus indication
+  * Designer mainly responsible, Developer involved
+* Select or activate
+  * A11y Specialist mainly responsible, Developer mostly responsible
 
 ## What's Next?
 
