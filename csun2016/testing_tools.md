@@ -11,7 +11,7 @@ Gerard Cohen
   * [JS Bookmarklets](#js-bookmarklets)
 * [Browser Plugins](#browser-plugins)
 * [Advanced Testing](#advanced-testing)
-* [Q&A](#q-a)
+* [Q&A](#qa)
 
 [Slide deck](http://www.slideshare.net/gerardkcohen/accessibility-testing-tools-for-developers-gerard-k-cohen-csun-2016)  
 Test site: [http://fyvr.net/acme/](http://fyvr.net/acme/)
