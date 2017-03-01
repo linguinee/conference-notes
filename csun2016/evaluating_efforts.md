@@ -45,10 +45,10 @@ What are ways to motivate people to consider accessibility? Are they sustainable
 ### Resources
 
 Benchmarking and Planning:  
-[http://ncdae.org/goals/planningtool.php](http://ncdae.org/goals/planningtool.php)
+http://ncdae.org/goals/planningtool.php
 
 Writing SMART goals and objectives:  
-[http://www.cognology.com.au/learning_center_howtowritesmartobj/](http://www.cognology.com.au/learning_center_howtowritesmartobj/)
+http://www.cognology.com.au/learning_center_howtowritesmartobj/
 
 ## Evaluating Outcomes
 
