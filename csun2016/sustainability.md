@@ -3,7 +3,7 @@
 JoAnna Hunt, Marlene Zentz
 
 * [Accessibility in the Private and Public Sectors](#accessibility-in-the-private-and-public-sectors)
-* [Accessibility Programs: Private Sector](#accessibility-programs--private-sector)
+* [Accessibility Programs: Private Sector](#accessibility-programs-private-sector)
   * [Keys to a Sustainable Accessibility Program](#keys-to-a-sustainable-accessibility-program)
   * [Blackboard History](#blackboard-history)
   * [Understanding Where You Are](#understanding-where-you-are)
@@ -16,13 +16,13 @@ JoAnna Hunt, Marlene Zentz
   * [Establishing a Clear Strategy](#establishing-a-clear-strategy)
     * [Blackboard's Strategy](#blackboards-strategy)
     * [Strategic Focus at Blackboard](#strategic-focus-at-blackboard)
-* [Accessibility Programs: Public Sector](#accessibility-programs--public-sector)
+* [Accessibility Programs: Public Sector](#accessibility-programs-public-sector)
   * [Keys to a Sustainable Accessibility Program](#keys-to-a-sustainable-accessibility-program-1)
   * [Timeline for the University of Montana](#timeline-for-the-university-of-montana)
   * [Extensive Training Efforts](#extensive-training-efforts)
   * [University of Montana Mission and Vision Statement](#university-of-montana-mission-and-vision-statement)
   * [Develop Strong Partnerships](#develop-strong-partnerships)
-* [Q&A](#q-a)
+* [Q&A](#qa)
 
 ## Accessibility in the Private and Public Sectors
 
