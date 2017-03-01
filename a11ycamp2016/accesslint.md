@@ -8,7 +8,7 @@ Cameron Cundiff, ThoughtBot, [@ckundo](https://twitter.com/ckundo)
   * [Why AccessLint?](#why-accesslint)
 * [How It Works](#how-it-works)
   * [What's next?](#whats-next)
-* [Questions?](#questions)
+* [Q&A](#qa)
 
 Slides: http://tinyurl.com/accesslint-slides
 
@@ -82,7 +82,7 @@ accesslint-ci
 * Package manager (Homebrew)
 * Production analytics
 
-## Questions?
+## Q&A
 
 **Right now, it's only running on CircleCI. What are the barriers to get it to run on other CI?**  
 We currently store the logs in Circle's artifacts. In this case, we're coupled to CircleCI because that's what we use. We have it queued up to store the logs in S3 so that our service can deal with everything and make it agnostic to the platform.
