@@ -1,8 +1,8 @@
 # CSUN Assistive Technology Conference 2016
 
-[Mobile Accessibility Testing & Development](mobile_accessibility.md)
-
 ## Accessibility Testing
+
+**Pre-conference workshop:** [Mobile Accessibility Testing & Development](mobile_accessibility.md)
 
 * [Common Accessibility Testing Mistakes](common_mistakes.md)
 * [Creating Accessibility Reports Designers & Developers Will Love](accessibility_reports.md)
@@ -25,6 +25,6 @@
 * [Using Key Metrics Reporting to Measure Accessibility Progress](key_metrics.md)
 * [Why WCAG? Whose Guideline is it, Anyway? with The Viking and The Lumberjack](wcag.md)
 
-## Games
+## Accessibility in Games
 
 * [Changing Tides: 2015's Games Industry Accessibility Advancements](games_industry.md)
