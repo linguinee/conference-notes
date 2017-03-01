@@ -1,8 +1,6 @@
 # Accessibility Testing Tools for Developers
 
-Gerard K. Cohen  
-[@gerardkcohe*n](https://twitter.com/gerardkcohen)  
-gerardkcohen@gmail.com
+Gerard K. Cohen, [@gerardkcohen](https://twitter.com/gerardkcohen), gerardkcohen@gmail.com
 
 * [Basic Tests](#basic-tests)
   * [HTML Validation](#html-validation)
