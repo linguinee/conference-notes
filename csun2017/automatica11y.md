@@ -64,7 +64,7 @@ There's a lot of black box testing, but what about unit testing?
 
 ## Hopes for the Future
 
-Analyzed data from webdevdata.org and found an increase in uses of <section>, <header>, role attribute usage, WAI-ARIA usage, etc.
+Analyzed data from webdevdata.org and found an increase in uses of \<section\>, \<header\>, role attribute usage, WAI-ARIA usage, etc.
 
 Out of 3,692,336 images, 27% has no alt text. 16% has empty alt text. Top five after that? 'S', 'M', 'L', 'D', ''.
 
@@ -96,7 +96,7 @@ In the future: analyzing websites to determine what underlying frameworks were u
 
 ### Framework Specificity
 
-We've become silo'd and accessibility has become more specific to the framework you're using.
+We've become siloed and accessibility has become more specific to the framework you're using.
 
 * ngAria
 * react-a11y
