@@ -120,4 +120,3 @@ Decide on the plan.
 * Who is responsible?
 * What are the testing methodologies?
 * What's the plan for the project lifecycle?
-
