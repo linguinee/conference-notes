@@ -20,13 +20,13 @@ Test site: [http://fyvr.net/acme/](http://fyvr.net/acme/)
 
 ### HTML Validation
 
-**W3C HTML Checker**[https://validator.w3.org/nu/](https://validator.w3.org/nu/)  
+**W3C HTML Checker** [https://validator.w3.org/nu/](https://validator.w3.org/nu/)  
 Validate markup plus suggestions for ARIA roles.
 
-**Web Developer Tools**[http://chrispederick.com/work/web-developer/](http://chrispederick.com/work/web-developer/)  
+**Web Developer Tools** [http://chrispederick.com/work/web-developer/](http://chrispederick.com/work/web-developer/)  
 Extension adds various web developer tools to the browser.
 
-**Local Validator**[https://github.com/validator/validator](https://github.com/validator/validator)  
+**Local Validator** [https://github.com/validator/validator](https://github.com/validator/validator)  
 If you're behind a firewall – or for privacy reasons.
 
 ### Keyboard Focus with TAB
@@ -48,13 +48,13 @@ Also look for improper tab index values – only proper values are -1 and 0.
 
 ### CSS Bookmarklets
 
-**debugCSS**[http://yahoo.github.io/debugCSS/](http://yahoo.github.io/debugCSS/)  
+**debugCSS** [http://yahoo.github.io/debugCSS/](http://yahoo.github.io/debugCSS/)  
 Developed by Yahoo. Tests accessibility, tables, namespace, and other HTML checks.
 
-**Diagnostic.css**[http://www.karlgroves.com/2013/09/07/diagnostic-css-super-quick-web-accessibility-testing/](http://www.karlgroves.com/2013/09/07/diagnostic-css-super-quick-web-accessibility-testing/)  
+**Diagnostic.css** [http://www.karlgroves.com/2013/09/07/diagnostic-css-super-quick-web-accessibility-testing/](http://www.karlgroves.com/2013/09/07/diagnostic-css-super-quick-web-accessibility-testing/)  
 Developed by Karl Groves. Tests for deprecated elements, images without alt attributes, empty TITLE elements, etc.
 
-**Revenge.CSS**[https://github.com/Heydon/REVENGE.CSS](https://github.com/Heydon/REVENGE.CSS)  
+**Revenge.CSS** [https://github.com/Heydon/REVENGE.CSS](https://github.com/Heydon/REVENGE.CSS)  
 Developed by Heydon Pickering.
 
 #### Custom Rules
@@ -84,15 +84,15 @@ e.g. CSS Toolbar "Widget" checks for role="group" and aria-label="some-label" �
 
 ### JS Bookmarklets
 
-**Tota11y**[http://khan.github.io/tota11y](http://khan.github.io/tota11y)  
+**Tota11y** [http://khan.github.io/tota11y](http://khan.github.io/tota11y)  
 Developed by Khan Academy.
 
-**HTML CodeSniffer**[http://squizlabs.github.io/HTML_CodeSniffer](http://squizlabs.github.io/HTML_CodeSniffer)  
+**HTML CodeSniffer** [http://squizlabs.github.io/HTML_CodeSniffer](http://squizlabs.github.io/HTML_CodeSniffer)  
 Developed by Squiz.
 
 ## Browser Plugins
 
-**Web Developer Tools**[http://chrispederick.com/work/web-developer/](http://chrispederick.com/work/web-developer/)  
+**Web Developer Tools** [http://chrispederick.com/work/web-developer/](http://chrispederick.com/work/web-developer/)  
 Developed by Chris Pederick. Remove CSS, highlight headings, etc.
 
 **Accessibility Developer Tools** (in the console)  
@@ -101,13 +101,13 @@ Developed by Chrome.
 * Inspector > highlight element > Accessibility Properties
     * Will give color contrast, plus a color combination that you can use!
 
-**WAVE**[http://wave.webaim.org/extension/](http://wave.webaim.org/extension/)  
+**WAVE** [http://wave.webaim.org/extension/](http://wave.webaim.org/extension/)  
 Developed by WebAim.
 
-**aXe**[http://www.deque.com/products/axe/](http://www.deque.com/products/axe/)  
+**aXe** [http://www.deque.com/products/axe/](http://www.deque.com/products/axe/)  
 Developed by Deque.
 
-**Tenon**[http://tenon.io/](http://tenon.io/)  
+**Tenon** [http://tenon.io/](http://tenon.io/)  
 Developed by Karl Groves. Similar to HTML Validator. There is a self-hosted solution (if it's a privacy violation).
 
 ## Advanced Testing
