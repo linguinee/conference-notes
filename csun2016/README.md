@@ -5,8 +5,8 @@
 ## Accessibility Testing
 
 * [Common Accessibility Testing Mistakes](common_mistakes.md)
-* [Creating Accessibility Reports Designers & Developers Will Love](accessibility_reports.md]
-* [Transforming Novices into Skilled Accessibility Testers with a 3x3 Process](3x3_process.md]
+* [Creating Accessibility Reports Designers & Developers Will Love](accessibility_reports.md)
+* [Transforming Novices into Skilled Accessibility Testers with a 3x3 Process](3x3_process.md)
 
 ## Accessibility Testing Tools
 
