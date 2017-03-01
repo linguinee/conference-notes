@@ -15,15 +15,15 @@
 
 ## Accessibility Culture
 
-* [Building a Culture Supporting Accessibility from Within Your Organization](building.md)
+* [Building a Culture Supporting Accessibility from Within Your Organization](building_culture.md)
 * [Rebranding Web Accessibility - We Changed Our Game Plan](rebranding.md)
 * [Sustainability Wins. Establishing Successful Accessibility Programs](sustainability.md)
 
 ## Evaluating Accessibility
 
-* [Evaluating Your Organization’s Accessibility Efforts and Outcomes](evaluating.md)
+* [Evaluating Your Organization’s Accessibility Efforts and Outcomes](evaluating_efforts.md)
 * [Using Key Metrics Reporting to Measure Accessibility Progress](key_metrics.md)
-* [Why WCAG? Whose Guideline is it, Anyway? with The Viking and The Lumberjack](wcag.md)
+* [Why WCAG? Whose Guideline is it, Anyway? with The Viking and The Lumberjack](why_wcag.md)
 
 ## Accessibility in Games
 
