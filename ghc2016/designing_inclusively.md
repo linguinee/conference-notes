@@ -89,7 +89,7 @@ Being inclusive starts with changing our mindset!
 
 Watch, read, and listen to media about often excluded groups
 * *Diversifying Barbie & Mortal Kombat*
-* [inclusivethefilm.com](http:s//inclusivethefilm.com)
+* inclusivethefilm.com
 * *Shrill: Notes from a Loud Woman*
 
 Take advantage of methods and tools
