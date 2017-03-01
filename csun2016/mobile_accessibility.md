@@ -4,11 +4,11 @@ CSUN 2016 Pre-Conference Workshop
 
 * [Links](#links)
   * [Presentation Slideshow](#presentation-slideshow)
-* [Demos & Code Examples](#demos---code-examples)
-  * [Before & After A11y Demos](#before---after-a11y-demos)
+* [Demos & Code Examples](#demos--code-examples)
+  * [Before & After A11y Demos](#before--after-a11y-demos)
   * [Bootcamp Live Coding Exercises](#bootcamp-live-coding-exercises)
   * [Xcode Swift Project File](#xcode-swift-project-file)
-* [Cheatsheets & Checklists](#cheatsheets---checklists)
+* [Cheatsheets & Checklists](#cheatsheets--checklists)
 
 ## Links
 
