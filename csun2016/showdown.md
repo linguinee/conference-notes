@@ -12,7 +12,7 @@ Luis Garcia
   * [WAVE Overview](#wave-overview)
 * [Next Steps](#next-steps)
 
-Slides: [http://www.garcialo.com/tools/presentation/](http://www.garcialo.com/tools/presentation/)
+Slides: http://www.garcialo.com/tools/presentation/
 
 ## Summary
 
@@ -31,7 +31,7 @@ Slides: [http://www.garcialo.com/tools/presentation/](http://www.garcialo.com/to
 
 **Tools List**
 
-* [http://www.garcialo.com/tools/](http://www.garcialo.com/tools/)
+* http://www.garcialo.com/tools/
 * Additional tools that have been talked about in a previous presentation
 * Additional tools are less automatic or require more work to get going
 * [HTML Codesniffer](http://squizlabs.github.io/HTML_CodeSniffer/), [WAVE Online](http://wave.webaim.org/), and [Tenon.io](http://www.tenon.io/) removed for lack of local analysis
@@ -106,23 +106,23 @@ Issues found by WAVE and AInspector not found by aXe and Accessibility Developer
 
 ### Accessibility Developer Tools Overview
 
-[http://www.garcialo.com/tools/presentation/devtools.html](http://www.garcialo.com/tools/presentation/devtools.html)  
-[http://www.garcialo.com/tools/presentation/devtools-continued.html](http://www.garcialo.com/tools/presentation/devtools-continued.html)
+http://www.garcialo.com/tools/presentation/devtools.html  
+http://www.garcialo.com/tools/presentation/devtools-continued.html
 
 ### AInspector Sidebar Overview
 
-[http://www.garcialo.com/tools/presentation/ainspector.html](http://www.garcialo.com/tools/presentation/ainspector.html)  
-[http://www.garcialo.com/tools/presentation/ainspector-continued.html](http://www.garcialo.com/tools/presentation/ainspector-continued.html)
+http://www.garcialo.com/tools/presentation/ainspector.html  
+http://www.garcialo.com/tools/presentation/ainspector-continued.html
 
 ### aXe Overview
 
-[http://www.garcialo.com/tools/presentation/axe.html](http://www.garcialo.com/tools/presentation/axe.html)  
-[http://www.garcialo.com/tools/presentation/axe-continued.html](http://www.garcialo.com/tools/presentation/axe-continued.html)
+http://www.garcialo.com/tools/presentation/axe.html  
+http://www.garcialo.com/tools/presentation/axe-continued.html
 
 ### WAVE Overview
 
-[http://www.garcialo.com/tools/presentation/wave.html](http://www.garcialo.com/tools/presentation/wave.html)  
-[http://www.garcialo.com/tools/presentation/wave-continued.html](http://www.garcialo.com/tools/presentation/wave-continued.html)
+http://www.garcialo.com/tools/presentation/wave.html  
+http://www.garcialo.com/tools/presentation/wave-continued.html
 
 ## Next Steps
 
