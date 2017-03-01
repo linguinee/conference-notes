@@ -70,7 +70,6 @@ We still don't know what they mean.
 1.1.1 Non-Text Content
 
 * If it isn't written text, you better have accessible content!
-
 * We assume this is just about images, but it's not!
   * icon fonts
   * images of text
