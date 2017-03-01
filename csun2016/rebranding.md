@@ -3,7 +3,7 @@
 Makoto Ueki, Kazuhito Kidachi
 
 * [Being Right Is Not Enough!](#being-right-is-not-enough)
-  * ["Marketing the Moon: The Selling of the Apollo Lunar Program"](#-marketing-the-moon-the-selling-of-the-apollo-lunar-program)
+  * ["Marketing the Moon: The Selling of the Apollo Lunar Program"](#marketing-the-moon-the-selling-of-the-apollo-lunar-program)
     * [Marketing Failure of Web A11y](#marketing-failure-of-web-a11y)
 * [True Benefits of Web A11y](#true-benefits-of-web-a11y)
 * [Accessibility is a Vital Quality for the Web](#accessibility-is-a-vital-quality-for-the-web)
@@ -13,7 +13,7 @@ Makoto Ueki, Kazuhito Kidachi
   * [WCAG should be more understandable](#wcag-should-be-more-understandable)
 * [Can we measure ROI of Web A11y?](#can-we-measure-roi-of-web-a11y)
 * [Conclusion](#conclusion)
-  * [Mottainai (もったいない)](#mottainai)
+  * [Mottainai (もったいない)](#mottainai-もったいない)
 
 Japan doesn't have legal requirements for accessibility. How do you convince people that accessible websites are important?
 
