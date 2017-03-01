@@ -5,7 +5,7 @@ Paul Adam and Jackie Adam, Deque Systems
 * [Scoping](#scoping)
 * [Project Wide Issues](#project-wide-issues)
 * [Reports](#reports)
-  * [Why is reporting project wide helpful?](#why-is-reporting-project-wide-helpful-)
+  * [Why is reporting project wide helpful?](#why-is-reporting-project-wide-helpful)
   * [Importance of screenshots](#importance-of-screenshots)
   * [Questions to ask when reporting an issue](#questions-to-ask-when-reporting-an-issue)
     * [Impact](#impact)
