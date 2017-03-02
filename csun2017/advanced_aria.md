@@ -11,6 +11,8 @@ Harris Schneiderman, Deque
   * [Modal Dialog](#modal-dialog)
   * [Mega Menu](#mega-menu)
   * [Checkboxes](#checkboxes)
+  * [role="application"](#roleapplication)
+* [Q&A](#qa)
 
 ## Overview
 
@@ -54,6 +56,9 @@ Things to remember:
 * Follow the spec according to the role
 * Color contrast
 * For custom controls: [Custom Control Accessible Development Checklist](https://w3c.github.io/aria-in-html/#checklist)
+
+Validate your accessibility!  
+Take advantage of automated checkers to catch bugs like misspelled roles.
 
 ### Live Regions
 
@@ -127,3 +132,22 @@ http://mattisner.com/a11y-examples/menu/
 * Clicking, pressing space bar, and tapping (mobile) should toggle the checkbox
 * Needs an accessible label (recommended: visible label associated via `aria-labelledby`)
 * `aria-checked="true"` when toggled on
+
+### role="application"
+
+A region declared as a web application as opposed to a web document. Causes AT to switch into a mode where all standard keyboard events go through the application rather than the browser.
+
+Should be used VERY, VERY RARELY!
+
+## Q&A
+
+**What about custom components for selects?**  
+There are so many widgets, so I was hoping people would ask questions about more. There are roles for that, `combobox` and its sibling, `listbox`.
+
+There are some differences between browsers, but as long as you're using the right roles, AT users shouldn't be confused.
+
+**We have a page that has a lot of widgets that have the possibility of live updating. How can we manage those?**  
+It really depends on the use case – you should try to avoid putting live regions on everything. Maybe sit down and decide which are the most important. Usually if you're dealing with multiple regions, it can get out of hand and overwhelming very fast.
+
+**So it would be multiple atomic elements in one region?**  
+Potentially, based on the use case. Conventionally, there would be an off-screen live-region for any readouts on the page that you can throw custom text onto.
