@@ -13,5 +13,10 @@
 
 ## Accessibility in Games
 
+* [Accessible Blockly: Rethinking a Visual Programming Editor for Kids](blockly.md)
 * [Experience report of a blind gamer to develop and improve the accessible action RPG ShadowRine for visually impaired gamers
 ](shadowrine.md)
+
+## Miscellaneous
+
+* [Accessibility vs. Security: Considerations for Online Content](security.md)
