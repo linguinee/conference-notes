@@ -1,6 +1,6 @@
 # Scaling Manual Accessibility Testing
 
-Ian Kelly, Dequeue
+Ian Kelly, Deque
 
 * [Challenges](#challenges)
   * [Combinations and Fragmentation](#combinations-and-fragmentation)
