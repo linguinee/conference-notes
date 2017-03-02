@@ -9,3 +9,9 @@
 ## Design
 
 * [What Makes One Font More Accessible than Another?](font.md)
+* [Color Contrast: A Deep Dive into Our Colorful World](color_contrast.md)
+
+## Accessibility in Games
+
+* [Experience report of a blind gamer to develop and improve the accessible action RPG ShadowRine for visually impaired gamers
+](shadowrine.md)
