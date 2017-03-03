@@ -2,14 +2,9 @@
 
 ## Accessibility Testing
 
-### Automation
-
 * [Automatica11y: Past, Present and Future of Automated Tooling](automatica11y.md)
 * [Data-Mining Accessibility: Research into Technologies to Determine Risk](data_mining.md)
 * [Reduce Accessibility Coding Costs: Nudge Developers with Linters and Types](coding_costs.md)
-
-### Manual
-
 * [Scaling Manual Accessibility Testing](scaling_manual.md)
 
 ## Design
@@ -20,17 +15,25 @@
 ## Development
 
 * [Advanced ARIA](advanced_aria.md)
+* [ARIA Prerequisites: What You Need to Know Before Implementing ARIA](aria_prerequisites.md)
+* [Keyboard Accessibility & .focus() Management in Web Development](keyboard.md)
 
 ## Accessibility in Games
 
 * [Accessible Blockly: Rethinking a Visual Programming Editor for Kids](blockly.md)
 * [Experience report of a blind gamer to develop and improve the accessible action RPG ShadowRine for visually impaired gamers](shadowrine.md)
 * [How the BBC is Changing Games Testing Through Accessibility](games_testing.md)
+* [Pew! Pew! Pew! We Wanna Play, Too. Making Games Accessible](making_games_accessible.md)
 
 ## Media Accessibility
 
 * [Closed Captions and Subtitles at YouTube](youtube.md)
 * [The State of Captioning: Where the Industry Stands & How Yahoo Goes Beyond](yahoo.md)
+
+## Culture
+
+* [Designing the Future with Science Fiction](science_fiction.md)
+* [What’s Stopping Us All from Making Accessible Services?](stopping_us.md)
 
 ## Miscellaneous
 
