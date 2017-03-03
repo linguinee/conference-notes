@@ -8,6 +8,7 @@ Jonathan Whiting, WebAIM
     * [Why aren't developers aware of this?](#why-arent-developers-aware-of-this)
   * [Accessibility APIs](#accessibility-apis)
     * [ARIA Roles](#aria-roles)
+    * [ARIA States/Properties vs HTML](#aria-statesproperties-vs-html)
     * [Accessible Names](#accessible-names)
   * [ARIA Documentation](#aria-documentation)
   * [Screen Reader Testing](#screen-reader-testing)
