@@ -27,6 +27,11 @@
 * [Experience report of a blind gamer to develop and improve the accessible action RPG ShadowRine for visually impaired gamers](shadowrine.md)
 * [How the BBC is Changing Games Testing Through Accessibility](games_testing.md)
 
+## Media Accessibility
+
+* [Closed Captions and Subtitles at YouTube](youtube.md)
+* [The State of Captioning: Where the Industry Stands & How Yahoo Goes Beyond](yahoo.md)
+
 ## Miscellaneous
 
 * [Accessibility vs. Security: Considerations for Online Content](security.md)
