@@ -1,4 +1,4 @@
-# ARIA prerequisites: What You Need to Know Before Implementing ARIA
+# ARIA Prerequisites: What You Need to Know Before Implementing ARIA
 
 Jonathan Whiting, WebAIM
 
