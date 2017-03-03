@@ -86,7 +86,7 @@ Opinion: What's the most abused ARIA role?
 * button
 * menu
 
-ARIA states/properties vs HTML
+#### ARIA States/Properties vs HTML
 
 HTML wins, except:
 
@@ -113,7 +113,7 @@ State: checked
 Role: checkbox  
 Label: Sprouts  
 State: checked
-Descriptiong: The consumption of raw sprouts…
+Description: The consumption of raw sprouts…
 
 #### Accessible Names
 
