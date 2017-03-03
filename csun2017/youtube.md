@@ -113,7 +113,7 @@ There's currently not an overt feedback mechanism for that. If it's been a day, 
 **Following up on that, do you have a best practices guide to ensure auto-generated captions?**  
 Eliminating background noise, a microphone for people speaking, etc. It only deals with one language per video, as well.
 
-**With the YouTube API, it's hard for third-party players to turn captions on and off. Was that intentional?**
+**With the YouTube API, it's hard for third-party players to turn captions on and off. Was that intentional?**  
 Not to my knowledge, but we'll put that down as feedback for the team responsible.
 
 **If your video has captions, will that affect search results?**  
