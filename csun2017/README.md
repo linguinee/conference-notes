@@ -34,7 +34,6 @@
 * [Being Right is Not Enough: Critical Lessons for Accessibility Advocates](advocates.md)
 * [Designing the Future with Science Fiction](science_fiction.md)
 * [Small Team, Big Company: Accessibility at the Scale of eBay](ebay.md)
-* [What’s Stopping Us All from Making Accessible Services?](stopping_us.md)
 
 ## Miscellaneous
 
