@@ -36,7 +36,7 @@ Which fonts purport to be "accessible"?
 
 Research:
 
-* > 40 research papers
+* \> 40 research papers
 * 11 font design projects
 * Neuroscience
 * Lab based formative testing
