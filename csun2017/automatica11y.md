@@ -43,6 +43,7 @@ There's a lot of black box testing, but what about unit testing?
 
 * Nu HTML Checker
 * WebAIM WAVE
+* aXe
 * Tenon.io
 * Readable.io (readability)
 * Juicy Studio
@@ -129,7 +130,7 @@ More and more we're developing components to be used as part of a web page. We s
 
 ### More CSS Heuristics
 
-* Aboslute units
+* Absolute units
 * Control font sizes
 * Click targets
 * Hover style and focus style
